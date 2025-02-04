@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi amor, ¿quieres ser mi San Valentín?</title>
+    <title>Mi Floche:3, ¿Puedo ser tu SanValentin?</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,8 +55,8 @@
 </head>
 <body>
 
-    <h1>¡Hola, Miamor!</h1>
-    <h2>¿Quieres ser mi San Valentín?</h2>
+    <h1>¡Holiwi, Mi Niña Peshosha!</h1>
+    <h2>¿Me Dejas ser tu San valentin :3?</h2>
 
     <div class="form-container">
         <p>Déjame saber si te gustaría pasar este Día de San Valentín juntos.</p>
