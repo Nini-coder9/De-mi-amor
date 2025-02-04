@@ -64,16 +64,5 @@
             <input type="text" name="nombre" placeholder="Tu nombre" required><br>
             <textarea name="mensaje" rows="4" cols="50" placeholder="Escribe tu mensaje aquí..." required></textarea><br>
             <button type="submit">¡Sí, quiero ser tu San Valentín!</button>
-        </form>
-    </div>
-
-    <!-- Mensaje de confirmación -->
-    <div class="footer-message">
-        Si dijiste que sí :3
-    </div>
-
-    <!-- Sticker de gato amoroso -->
-    <img src="https://example.com/sticker-gato.jpg" alt="Gato amoroso" class="cat-sticker">
-
 </body>
 </html>
